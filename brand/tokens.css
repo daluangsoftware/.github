@@ -1,0 +1,35 @@
+/*
+ * Token identitas Daluang. Penjelasan ada di brand/README.md.
+ * Tema gelap berlaku di bawah elemen dengan class `dark`.
+ */
+:root {
+	--daluang-mangsi: #1c1917;
+	--daluang-kertas: #ece2cc;
+	--daluang-kapur: #faf7f0;
+	--daluang-kulit-kayu: #9a4a24;
+	--daluang-kulit-kayu-terang: #d98a5c;
+	--daluang-abu: #6b6259;
+	--daluang-abu-terang: #b5aa98;
+
+	--background: var(--daluang-kapur);
+	--surface: var(--daluang-kertas);
+	--foreground: var(--daluang-mangsi);
+	--muted-foreground: var(--daluang-abu);
+	--accent: var(--daluang-kulit-kayu);
+	--accent-foreground: var(--daluang-kapur);
+	--border: #d9cdb3;
+
+	--font-serif: "Lora", ui-serif, Georgia, Cambria, serif;
+	--font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+	--font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+.dark {
+	--background: var(--daluang-mangsi);
+	--surface: #292524;
+	--foreground: var(--daluang-kapur);
+	--muted-foreground: var(--daluang-abu-terang);
+	--accent: var(--daluang-kulit-kayu-terang);
+	--accent-foreground: var(--daluang-mangsi);
+	--border: #44403c;
+}
