@@ -3,15 +3,16 @@
   <img alt="Daluang" src="https://raw.githubusercontent.com/daluangsoftware/.github/HEAD/brand/logo/daluang-logo.svg" width="280">
 </picture>
 
-**Dari buku catatan ke software.**
+**Ditulis dulu, baru dibuat.**
 
-Daluang adalah konsultan software untuk usaha kecil di Indonesia. Kami merancang, membuat, dan merawat software.
+Daluang adalah konsultan software di Indonesia. Kami menulis kebutuhan bersama Anda, membuat software-nya, lalu merawatnya.
 
-## Produk
+## Karya
 
 | Produk | Isi | Status |
 |---|---|---|
-| DaluangPOS | POS untuk warung | Dalam pengembangan |
+| DaluangPOS | POS untuk warung, tetap jalan tanpa internet | Dalam pengembangan |
+| [Daluang CMS](https://github.com/rimzzlabs/daluang) | CMS Markdown di Cloudflare Workers, open source | Dalam pengembangan |
 
 ## Cara kerja
 

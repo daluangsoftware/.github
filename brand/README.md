@@ -13,22 +13,22 @@ Daluang adalah kata Sunda untuk kertas kulit kayu. Kertas ini dibuat dari kulit 
 
 ## Gagasan
 
-Usaha kecil sudah punya catatan: buku kas, nota, dan buku kasbon. Daluang memindahkan catatan itu ke software. Software itu harus tetap sesederhana buku tulisnya, dan catatan di dalamnya harus tahan lama.
+Daluang dibuat dari kulit kayu yang dipukul berulang kali sampai melebar menjadi lembaran, lalu ditulisi. Begitu juga cara Daluang bekerja: ide yang masih kasar ditempa bersama klien sampai jelas, ditulis dan disetujui, baru dibuat menjadi software.
 
 ## Posisi
 
-Daluang adalah konsultan software untuk usaha kecil di Indonesia. Daluang merancang, membuat, dan merawat software. Daluang juga punya produk sendiri. Produk pertama: DaluangPOS, POS untuk warung.
+Daluang adalah konsultan software di Indonesia. Daluang menulis kebutuhan bersama klien, membuat software-nya, lalu merawatnya. Daluang juga punya produk sendiri: DaluangPOS dan Daluang CMS. Produk itu adalah bukti cara kerja, bukan fokus merek.
 
 | Hal | Isi |
 |---|---|
-| Untuk siapa | Pemilik usaha kecil di Indonesia yang masih mencatat di kertas atau spreadsheet |
-| Masalah | Catatan tercecer, sulit dihitung, dan hilang kalau bukunya hilang |
-| Yang Daluang kerjakan | Konsultasi, pembuatan software, dan perawatan software |
-| Bukti | DaluangPOS, produk yang Daluang buat sendiri |
+| Untuk siapa | Bisnis dan tim di Indonesia yang punya ide software, tetapi belum punya tim engineering sendiri |
+| Masalah | Ide software sering langsung dibuat tanpa ditulis, lalu hasilnya tidak sesuai dan sulit dirawat |
+| Yang Daluang kerjakan | Konsultasi, pembuatan software (web, Android, backend), dan perawatan |
+| Bukti | DaluangPOS dan Daluang CMS, produk yang Daluang buat sendiri dengan cara kerja yang sama |
 
-Tagline: **Dari buku catatan ke software.**
+Tagline: **Ditulis dulu, baru dibuat.**
 
-Kalimat satu baris: Daluang membuat software untuk usaha kecil di Indonesia.
+Kalimat satu baris: Daluang adalah konsultan software yang menulis dulu, baru membuat.
 
 ## Prinsip
 
